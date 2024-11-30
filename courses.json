@@ -1,0 +1,82 @@
+[
+    {
+        "courseName": "Calculus",
+        "courseCode": "BMAT101L",
+        "creditPoints": 3
+    },
+    {
+        "courseName": "Calculus Lab",
+        "courseCode": "BMAT101P",
+        "creditPoints": 1
+    },
+    {
+        "courseName": "Complex Variables and Linear Algebra",
+        "courseCode": "BMAT201L",
+        "creditPoints": 4
+    },
+    {
+        "courseName": "Differential Equations and Transforms",
+        "courseCode": "BMAT102L",
+        "creditPoints": 4
+    },
+    {
+        "courseName": "Engineering Chemistry",
+        "courseCode": "BCHY101L",
+        "creditPoints": 3
+    },
+    {
+        "courseName": "Engineering Chemistry Lab",
+        "courseCode": "BCHY101P",
+        "creditPoints": 1
+    },
+    {
+        "courseName": "Engineering Physics",
+        "courseCode": "BPHY101L",
+        "creditPoints": 3
+    },
+    {
+        "courseName": "Engineering Physics Lab",
+        "courseCode": "BPHY101P",
+        "creditPoints": 1
+    },
+    {
+        "courseName": "Probability and Statistics",
+        "courseCode": "BMAT202L",
+        "creditPoints": 3
+    },
+    {
+        "courseName": "Probability and Statistics Lab",
+        "courseCode": "BMAT202P",
+        "creditPoints": 1
+    },
+    {
+        "courseName": "Computer Programming: Python",
+        "courseCode": "BCSE101E",
+        "creditPoints": 3
+    },
+    {
+        "courseName": "Structured and Object-Oriented Programming",
+        "courseCode": "BCSE102L",
+        "creditPoints": 2
+    },
+    {
+        "courseName": "Structured and Object-Oriented Programming Lab",
+        "courseCode": "BCSE102P",
+        "creditPoints": 2
+    },
+    {
+        "courseName": "Computer Programming: Java",
+        "courseCode": "BCSE103E",
+        "creditPoints": 3
+    },
+    {
+        "courseName": "Basic Electrical and Electronics Engineering",
+        "courseCode": "BEEE102L",
+        "creditPoints": 3
+    },
+    {
+        "courseName": "Basic Electrical and Electronics Engineering Lab",
+        "courseCode": "BEEE102P",
+        "creditPoints": 1
+    }
+]
