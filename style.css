@@ -1,0 +1,70 @@
+body {
+    background-color: #121212;
+    color: #f5f5f5;
+}
+.card {
+    background-color: #1e1e1e;
+    color: #f5f5f5;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.btn-primary {
+    background-color: #ffc107;
+    border: none;
+    color: #121212;
+}
+.btn-primary:hover {
+    background-color: #e0a800;
+    color: #121212;
+}
+.btn-danger {
+    background-color: #f44336;
+    border: none;
+}
+.btn-danger:hover {
+    background-color: #d32f2f;
+}
+.table-dark th, .table-dark td {
+    color: #f5f5f5;
+    background-color: #1e1e1e;
+}
+.table-dark th {
+    border-bottom: 2px solid #ffc107;
+}
+.navbar {
+    background-color: #1e1e1e;
+}
+.navbar-brand, .navbar-text {
+    color: #ffc107;
+}
+.navbar-brand:hover, .navbar-text:hover {
+    color: #e0a800;
+}
+.autocomplete-items {
+    position: absolute;
+    z-index: 99;
+    border: 1px solid #d4d4d4;
+    border-top: none;
+    max-height: 200px;
+    overflow-y: auto;
+    background-color: #333;  /* Dark background for better visibility */
+    width: 100%;  /* Limit to input width */
+    color: #f5f5f5;  /* Light text color */
+    box-sizing: border-box;
+    top: 100%; /* Ensure it's placed directly below the input */
+    left: 0;
+}
+.autocomplete-item {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #444;  /* Slightly lighter background for hover */
+}
+.autocomplete-item:hover {
+    background-color: #555;  /* Highlight on hover */
+}
+.input-container {
+    position: relative;  /* This is necessary to properly position the autocomplete dropdown */
+}
+.w-100 {
+    width: 100%;
+}
